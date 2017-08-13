@@ -4,3 +4,5 @@
 2) How is the staging area different from the working directory and the repository? What value do you think it offers?
 --- The staging area allows you to control exactly which files are committed to the repository that are in your working directory. It does not necessariy contain all the files in your working directory, and lets you have more control over the commits made to your git repository. 
 
+3) How can you use the staging area to make sure you have one commit per logical change?
+--- You can make sure to only GIT ADD the relevant files to the staging area that make logical sense for the commit. If you changed two files, but the changes are not logically similar, you can GIT ADD and GIT COMMIT the files at different times so the commits are kept logically separate. 
