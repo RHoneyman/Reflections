@@ -6,3 +6,7 @@
 
 3) How can you use the staging area to make sure you have one commit per logical change?
 --- You can make sure to only GIT ADD the relevant files to the staging area that make logical sense for the commit. If you changed two files, but the changes are not logically similar, you can GIT ADD and GIT COMMIT the files at different times so the commits are kept logically separate. 
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+--- Branches would be helpful if you wanted to try some new features or make significant changes, without breaking or altering your code that already works. Branches allow people to experiment and try new things without worrying about causing issues with the main program or code.
+
