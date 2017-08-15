@@ -16,3 +16,6 @@
 6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 --- Merging two branches together creates one branch with a shared commit history that stems from the two branches before they merged. We represent it in the diagram the way we do to visually show that the two branches merged into one, but the commit history is still based on the child-parent relationships of the commits for their respective branches.
 
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+--- Automatic merging is fast and will help identify conflicts between code, but sometimes it may not be entirely correct with how the code should be merged. Merging manually allows you complete control over what gets merged, but can be slow and tedious.
+
