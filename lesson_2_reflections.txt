@@ -12,3 +12,7 @@
 
 5) How do the diagrams help you visualize the branch structure?
 --- It helped me understand what is happening when you make commits or new branches, and how they relate to each other. 
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+--- Merging two branches together creates one branch with a shared commit history that stems from the two branches before they merged. We represent it in the diagram the way we do to visually show that the two branches merged into one, but the commit history is still based on the child-parent relationships of the commits for their respective branches.
+
