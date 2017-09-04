@@ -3,4 +3,7 @@
     b) When you are working with others.
     c) When you are working from different computers.
 
-2)
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+    a) If Git automatically stays up-to-date with the remote repository, then some commits may be made to your remote that you did not expect or want, especially if more than one person is working on the repository at a time. 
+
+3) 
