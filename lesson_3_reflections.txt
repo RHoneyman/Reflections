@@ -12,4 +12,7 @@
     c) A branch is still part of the same repository, but its own saved set of commits, depending on when it was branched and from which branch. 
     d) You would use branching to work on your own features/code but still have it affect the original repository. You would clone a repository if you just want it on your own computer, or fork it if it is on github and you want to keep a copy on github as well.
 
-4)  
+4)  What is the benefit of having a copy of the last known state of the remote stored locally?
+    a) It ensures that you have the state of the remote branch to review, even if you have been offline for an extended period, and makes it so you are able to check what changes occurred on the remote branch once you come back online.
+
+5) 
