@@ -15,4 +15,6 @@
 4)  What is the benefit of having a copy of the last known state of the remote stored locally?
     a) It ensures that you have the state of the remote branch to review, even if you have been offline for an extended period, and makes it so you are able to check what changes occurred on the remote branch once you come back online.
 
-5) 
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+    a) I would likely use something like Sharepoint or Dropbox, and would have to have differently named files between different collaborators. It would only be easier in that we wouldn't need to remember git commands, but it seems that everything else would be harder. Any changes made would not be as explicitly easy to see, and trying to merge changes together would be an entirely manual process. It would also be much more difficult to track any changes made over time, so especially if something stops working, it would be more difficult to figure out which historical file to go back to in order to find the change that caused the issue, and it would also be difficult to figure out who had made the change and when.
+
